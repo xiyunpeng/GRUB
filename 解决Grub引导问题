@@ -1,0 +1,2 @@
+在Windows下：
+管理员身份cmd运行：bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
